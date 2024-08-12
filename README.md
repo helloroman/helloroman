@@ -1,5 +1,5 @@
 # Hi, it's Roman! Check out [my vlog](https://youtube.com/helloroman)
-I'm a creative senior frontend developer and YouTube creator striving to grow myself and everyone around me. Currently, I work at [Hotjar](https://hotjar.com) where I'm a developer and a team leader. Feel free to ping me at any of my social media listed below 👇
+I'm a creative senior frontend developer and YouTube creator striving to grow myself and everyone around me. 
 
 ## Let's stay in touch:
 [<img align="left" alt="helloroman.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
